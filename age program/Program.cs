@@ -17,8 +17,6 @@ namespace age_program
             //calculation
             int age = DateTime.Today.Year - birthday.Year;
 
-            //int age = int.Parse(Console.ReadLine());
-
             //selection
             if (age >= 0 && age < 13)
             {
