@@ -16,7 +16,7 @@ namespace loops
             while(choice == "1")
             {
                 // for loop//
-                Console.Writeline("for loop: ");
+                Console.WriteLine("for loop: ");
 
 
 
